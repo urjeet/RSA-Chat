@@ -2,7 +2,8 @@
 ***
 An implementation of a primitive secure communications system utilizing the RSA cryptosystem and two primitive symmetric ciphers – a substitution cipher and an additive cipher. I completed this project for a University assignment.  
 
-**Do not use any of the source code to submit as your own work or idea.**  
+**Do not use any of the source code to submit as your own work or idea.** 
+
 *Program Written in November 2019*  
 *Pushed to Github in December 2020*
 
