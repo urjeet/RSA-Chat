@@ -1,4 +1,4 @@
-# RSAChat
+# RSA Chat
 ***
 An implementation of a primitive secure communications system utilizing the RSA cryptosystem and two primitive symmetric ciphers – a substitution cipher and an additive cipher. I completed this project for a University assignment.  
 
